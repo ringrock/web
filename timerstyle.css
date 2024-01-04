@@ -14,9 +14,10 @@ body, html {
 
 #countdown-title {
     margin-bottom: 20px;
+    font-size: 8em;
 }
 
 #timer {
     color: blue;
-    font-size: 2em;
+    font-size: 8em;
 }
