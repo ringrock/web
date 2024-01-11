@@ -15,7 +15,7 @@ function updateTimer() {
 
     if (distance < 0) {
         clearInterval(interval);
-        timerElement.innerHTML = "EXPIRED";
+        timerElement.innerHTML = "Congratulations!";
     }
 }
 
